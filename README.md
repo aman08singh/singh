@@ -16,4 +16,4 @@ StackOverflow - https://stackoverflow.com/users/6781395/aman-kumar-singh
 
 Codepen - https://codepen.io/aman08singh/
 
-Website - www.eatdrinkburn.com
+Website - https://erroreported.blogspot.com/
